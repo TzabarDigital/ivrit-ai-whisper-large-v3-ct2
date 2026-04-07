@@ -1,0 +1,8 @@
+{
+  "input": {
+    "audio_url": "https://example.com/sample.mp3",
+    "language": "he",
+    "beam_size": 5,
+    "vad_filter": true
+  }
+}
